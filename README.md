@@ -2,7 +2,7 @@
 This is a note taking app built with React and Node.js. It allows users to create and categorize notes with tags, references, and emoji reactions. The database is supported by MySQL inbuilt in the Supabase platfrom. See the project in action at https://quicknotes-hw.netlify.app/.
 
 
-
+<img src="./intro.jpg">
 
 
 
